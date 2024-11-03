@@ -18,6 +18,5 @@ Subject2_R2_path = r"../MCrawdata/Subject2/Ex_V2_R2_S20002.c3d"
 Subject2_R1 = ktk.read_c3d(Subject2_R1_path)['Points']
 Subject2_R2 = ktk.read_c3d(Subject2_R2_path)['Points']
 
-Subject2_R1.plot(['R_M_H'])
 
 Subject2_R1 = Subject2_R1.ui_edit_events()
