@@ -1,0 +1,2 @@
+subject_id,early_det_value,late_det_value,pseudo_efficiency,pseudo_efficiency_late,early_num_pcs_90,early_num_pcs_above_1_percent,late_num_pcs_90,late_num_pcs_above_1_percent
+Subject03,1.5457104880027183e+41,2.7326268969863877e+55,370617288.652938,4425568984.258379,7,11,9,13
